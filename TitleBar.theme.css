@@ -1,0 +1,60 @@
+/**
+ * @name Rainbow Title
+ * @author AWPMasterGames
+ * @description Theme was created a awpmastergames
+ * @website https://discord.gg/tNRssPYDu5
+*/
+.titleBar-1it3bQ::before {
+    content: "☣☢❤ TOXIK SQAD ❤☢☣";
+    position: absolute;
+    top: 7px;
+    left: 12px;
+    height: 20px;
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+    font-weight: 1000;
+    font-size: 10.90999px;
+	font-family: "Times New Roman";
+}
+.titleBar-1it3bQ .wordmark-2u86JB { 
+    display: none;
+}
+@keyframes mytext {
+    100%,
+    0% {
+        color: rgb(255, 0, 0);
+    }
+    8% {
+        color: rgb(255, 127, 0);
+    }
+    16% {
+        color: rgb(255, 255, 0);
+    }
+    25% {
+        color: rgb(127, 255, 0);
+    }
+    33% {
+        color: rgb(0, 255, 0);
+    }
+    41% {
+        color: rgb(0, 255, 127);
+    }
+    50% {
+        color: rgb(0, 255, 255);
+    }
+    58% {
+        color: rgb(0, 127, 255);
+    }
+    66% {
+        color: rgb(0, 0, 255);
+    }
+    75% {
+        color: rgb(127, 0, 255);
+    }
+    83% {
+        color: rgb(255, 0, 255);
+    }
+    91% {
+        color: rgb(255, 0, 127);
+    }
+}
