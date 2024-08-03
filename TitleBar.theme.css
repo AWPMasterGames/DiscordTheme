@@ -1,17 +1,17 @@
 /**
- * @name Rainbow Title
+ * @name Title Bar
  * @author AWPMasterGames
  * @description Theme was created a awpmastergames
  * @website https://discord.gg/tNRssPYDu5
 */
 .titleBar-1it3bQ::before {
-    content: "☣☢❤ TOXIK SQAD ❤☢☣";
+    content: "❤ AWP_MasterGames ❤";
     position: absolute;
     top: 7px;
     left: 12px;
     height: 20px;
     color: white;
-    animation: mytext 5s linear 0s infinite alternate;
+    animation: mytext 15s linear 0s infinite alternate;
     font-weight: 1000;
     font-size: 10.90999px;
 	font-family: "Times New Roman";
