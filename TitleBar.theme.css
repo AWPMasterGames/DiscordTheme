@@ -12,18 +12,18 @@
   left: 8px;
   width: 33px;
 }
-.titleBar-1it3bQ::before {
-    content: "❤ AWP_MasterGames ❤";
+.titleBar_a934d8::before {
+    content: "❤ AWP_Master Games ❤";
     position: absolute;
     top: 7px;
     left: 12px;
     height: 20px;
     color: white;
     animation: mytext 15s linear 0s infinite alternate;
-    font-weight: 1000;
     font-size: 10.90999px;
 	font-family: "Times New Roman";
 }
-.titleBar-1it3bQ, .wordmark-2u86JB { 
+.titleBar_a934d8 .wordmark_a934d8 { 
     display: none;
+	//уберает надпись дискорд
 }
